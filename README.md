@@ -10,7 +10,7 @@ JGeolocator utilizes two forms.
 - The second form is a default GUI to make an easy-to-use interface for the user
 	- The default form is the JGeolocator.jar file
 	- The jar file MUST be in the same directory as the original source. 
-	- This is database dependencies are in certain directories to work
+	- The database dependencies are in certain directories to work
 	
 # Default GUI Overlook
 ![Alt text](/rsrc/gui.PNG)
