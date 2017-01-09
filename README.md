@@ -11,6 +11,7 @@ JGeolocator utilizes two forms.
 	- The default form is the JGeolocator.jar file
 	- The jar file MUST be in the same directory as the original source. 
 	- The database dependencies are in certain directories to work
+
 # Download Setup
 - Clone or download this repository as a zip file
 - Extract the downloaded zip file
