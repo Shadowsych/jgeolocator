@@ -18,6 +18,9 @@ JGeolocator utilizes two forms.
 # Setup
 Copy and paste the entire JGeolocator's "com" folder into your project's "src" folder
 Copy and paste the entire JGeolocator's "databases" folder in your project's main directory
+Copy and paste the entire JGeolocator's "lib" folder in your project's main directory
+Go to your IDE, go to the project's properties in the IDE, go to the Java Build Path, then go to the Libraries and add
+all of the .jar files from the lib folder to your project.
 
 # Documentation
 Import the geoLocator class
