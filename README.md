@@ -1,10 +1,10 @@
 ![Alt text](/rsrc/icon.png)
 # Overview
 JGeolocator(or Java Geolocator) is a Java-based application that is used to locate a person with his or her IP Address. 
+The code uses the GeoIP2 API - http://maxmind.github.io/GeoIP2-java/
 Proper documentation is provided below the README.
 
 # Dependencies
-The code utilizes the GeoIP2 API - http://maxmind.github.io/GeoIP2-java/
 JGeolocator utilizes two forms.
 - The first form is an editable source code for programmers to code
 - The second form is a default GUI to make an easy-to-use interface for the user
