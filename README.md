@@ -13,7 +13,7 @@ JGeolocator utilizes two forms.
 	- This is database dependencies are in certain directories to work
 	
 # Default GUI Overlook
-![Alt text](/rsrc/gui.png)
+![Alt text](/rsrc/gui.PNG)
 
 # Setup
 Copy and paste the entire JGeolocator's "com" folder into your project's "src" folder
