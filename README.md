@@ -46,4 +46,5 @@ location.location.getMetroCode() //get the metrocode
 location.location.getPopulationDensity() //get the location's population density
 location.location.getAverageIncome() //get the location's average income
 ```
-
+# DISCLAIMER
+JGEOLOCATOR IS A PROJECT MADE FOR EDUCATIONAL PURPOSES AND BUSINESS PURPOSES. THIS PRODUCT IS NOT INTENDED FOR MALICIOUS ACTS AND WILL NOT BE HELD ACCOUNTABLE FOR ANY ACTIVITIES CONDUCTED IN THIS APPLICATION.
